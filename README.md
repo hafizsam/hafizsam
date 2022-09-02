@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @hafizsam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hafiz.
+
+- 👀 I’m interested in Robotics, Automation and Deep Leaning.
+
+- 🌱 I’m currently learning on C# and Deep Learning
+
+- 📫 Reach me at thehafizsam@gmail.com
 
 <!---
 hafizsam/hafizsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
