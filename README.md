@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning on C# and Deep Learning
 
+- 💼 Visit my LinkedIn profile at www.linkedin.com/in/thehafizsam 
+
 - 📫 Reach me at thehafizsam@gmail.com
 
 <!---
