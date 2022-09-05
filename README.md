@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Robotics, Automation and Deep Leaning.
 
-- 🌱 I’m currently learning on C# and Deep Learning
+- 🌱 I’m can code in C, C++, MATLAB and python, and currently learning on C# and Deep Learning.
 
 - 💼 Visit my LinkedIn profile at www.linkedin.com/in/thehafizsam 
 
